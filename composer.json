@@ -1,0 +1,36 @@
+{
+    "name": "vs7/magento2-module-promomassactions",
+    "description": "Mass actions for Sales Promo Quote admin grid.",
+    "type": "magento2-module",
+    "version":"0.1.0",
+    "license": "OSL-3.0",
+    "description": "VS7 Promo Mass Actions for Magento2",
+    "keywords": [
+        "magento",
+        "magento2",
+        "vs7",
+        "promo",
+        "sales",
+        "rule",
+        "massactions"
+    ],
+    "authors": [
+        {
+            "name": "VS7, Vladislav Gevlich",
+            "email": "vs7develop@gmail.com",
+            "homepage": "https://vs7.io"
+        }
+    ],
+    "homepage": "https://github.com/vs7/magento2-module-promomassactions",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "VS7\\PromoMassactions\\": ""
+        }
+    },
+    "require": {
+        "magento/magento-composer-installer": "*"
+    }
+}

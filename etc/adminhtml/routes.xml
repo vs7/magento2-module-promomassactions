@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
+    <router id="admin">
+        <route id="vs7_promomassactions" frontName="vs7_promomassactions">
+            <module name="VS7_PromoMassactions"/>
+        </route>
+    </router>
+</config>
