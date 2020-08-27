@@ -1,10 +1,9 @@
 {
     "name": "vs7/magento2-module-promomassactions",
-    "description": "Mass actions for Sales Promo Quote admin grid.",
     "type": "magento2-module",
     "version":"0.1.0",
     "license": "OSL-3.0",
-    "description": "VS7 Promo Mass Actions for Magento2",
+    "description": "VS7 Promo Mass Actions for Magento2 for Sales Promo Quote admin grid.",
     "keywords": [
         "magento",
         "magento2",
